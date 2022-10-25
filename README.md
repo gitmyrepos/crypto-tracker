@@ -1,4 +1,4 @@
-#Crypto Tracker
+# Crypto Tracker
 
 Crypto Tracker is one of my first React Projects. The tool is built with react components and APIs to reference major crypto asset prices. The purpose of this project was to build a simple React app and get familiar with React syntax.
 
